@@ -1,0 +1,5 @@
+1. is a relatively new technology that supports high-resolution displays and high-performance data through one single port
+
+2.  the connectivity allows you to add several devices to your computer through a daisy chain of cords.
+
+Trivia. Thunderbolt can Transfer a 4K movie in under 30 seconds.

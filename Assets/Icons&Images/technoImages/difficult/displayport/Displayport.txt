@@ -1,0 +1,5 @@
+1. an interface for digital displays, particularly computer monitors.
+
+2. It was developed by the Video Electronics Standards Association (VESA) as a high-performance replacement for other display modes such as VGA (Video Graphics Array) and DVI (Digital Visual Interface).
+
+Trivia. DisplayPort has the unique ability to support external display adapters.

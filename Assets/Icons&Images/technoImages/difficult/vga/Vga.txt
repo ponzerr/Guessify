@@ -1,0 +1,6 @@
+1. is a standard connector used for computer video output
+
+2. the 15-pin connector went on to become ubiquitous on PCs, as well as many monitors, projectors and high-definition television sets.
+
+
+trivia. VGA connectors have many pins that each have their own function on the screen display.

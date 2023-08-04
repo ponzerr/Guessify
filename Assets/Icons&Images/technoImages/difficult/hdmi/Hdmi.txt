@@ -1,0 +1,5 @@
+1. supports standard, enhanced, or high-definition video plus standard to multi-channel surround-sound audio.
+
+2. benefits include uncompressed digital video, a bandwidth of up to 5 gigabytes per second, one connector instead of several cables and connectors, and communication between the video source and the DTV. 
+
+Trivia. Compresses up to 8 audio channels in a single cable.

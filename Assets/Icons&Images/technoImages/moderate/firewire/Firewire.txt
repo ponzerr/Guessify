@@ -1,0 +1,6 @@
+1. a connecting device used primarily for adding peripherals to a computer
+2. FireWire is often used for connecting external hard drives and digital camcorders that benefit from a high transfer rate.
+
+Trivia. 
+ FireWire, also called IEEE 1394 or i.LINK, high-speed computer data-transfer interface that was used to connect personal computers
+The IEEE 1394 interface offered data-transfer rates of up to 3,200 megabits (millions of bits) per second

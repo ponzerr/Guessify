@@ -1,0 +1,4 @@
+1. an electrical device that supplies electric power to an electrical load.
+2. he main purpose is to convert electric current from a source to the correct voltage, current, and frequency to power the load.
+
+Trivia. They do a lot more than power your PC in a blackout 
